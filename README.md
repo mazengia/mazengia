@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mazengia
+- 👋 Hi, I’m Mazengia Tesfa
 - 👀 I’m interested in web development
-- I have exprine in spring boot, laravel, angular,,docker, jenkins,apchet
-- 🌱 I’m currently learning django and react
+- I have exprine in spring boot, microservicess, RESTAPI,Spring Security, laravel, angular,docker, jenkins,soap webservice
+- 🌱 I’m currently learning mongodb and react
 - 💞️ I’m looking to collaborate on any environment
 - 📫 How to reach me email:mz.tesfa@gmail.com phone +251986680289
 
