@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Mazengia Tesfa
 - 👀 I’m interested in web development
 - I have exprine in
-  -spring boot, microservicess, RESTAPI,Spring Security,
-  -laravel,
-  -angular,
-  -devops -docker, jenkins,
-  -soap webservice
+  - Spring boot, microservicess, RESTAPI,Spring Security,
+  - Laravel,
+  - Angular,
+  - Devops -docker, jenkins,
+  - Soap webservice
   - flutter and android studio,
   - react
 - 🌱 I’m currently learning odoo
