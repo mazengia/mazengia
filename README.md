@@ -1,7 +1,14 @@
 - 👋 Hi, I’m Mazengia Tesfa
 - 👀 I’m interested in web development
-- I have exprine in spring boot, microservicess, RESTAPI,Spring Security, laravel, angular,docker, jenkins,soap webservice
-- 🌱 I’m currently learning mongodb and react
+- I have exprine in
+  -spring boot, microservicess, RESTAPI,Spring Security,
+  -laravel,
+  -angular,
+  -devops -docker, jenkins,
+  -soap webservice
+  - flutter and android studio,
+  - react
+- 🌱 I’m currently learning odoo
 - 💞️ I’m looking to collaborate on any environment
 - 📫 How to reach me email:mz.tesfa@gmail.com phone +251986680289
 
